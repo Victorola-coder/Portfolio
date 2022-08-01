@@ -1,0 +1,37 @@
+    @media screen and (max-width:768px) {
+        .navbar-nav {
+            margin-left: -460px;
+        }
+        .section-1 img {
+            width: 110%;
+        }
+        form input,
+        form textarea {
+            width: 330px;
+        }
+    }
+    
+    @media screen and (max-width:426px) {
+        .section-1 img {
+            width: 100%;
+        }
+    }
+    
+    @media screen and (max-width:376px) {
+        .navbar-brand {
+            margin-left: -50px;
+        }
+        .navbar-nav {
+            margin-left: -510px;
+        }
+    }
+    
+    @media screen and (max-width:321px) {
+        .navbar-brand {
+            margin-left: -100px;
+        }
+        form input,
+        form textarea {
+            width: 260px;
+        }
+    }
