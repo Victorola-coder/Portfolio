@@ -103,6 +103,7 @@ var typed = new Typed('.anim', {
         'Web Developer',
         'Software Developer',
         'Graphic Designer',
+        ' Video Editor',
         'Freelancer',
         'Student',
     ],
